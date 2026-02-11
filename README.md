@@ -51,7 +51,7 @@ I enjoy working with amazing people and building impactful projects.
 <a href="https://www.linkedin.com/in/ishika-shirode-69a9302ab/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>!-- Add LinkedIn later -->
+
 </p>
 
 ---
