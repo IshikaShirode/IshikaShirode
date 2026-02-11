@@ -29,11 +29,11 @@ I enjoy working on <b>real-world projects, hackathons</b> and learning new techn
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [**Nidhiprama**] | HTML, CSS, JS | Financial literacy website that explains concepts simply for students & adults |
-| [**Statistical Data Analysis**] | Python, Data Science | Visualized Sakura Pen sales insights with Python data tools |
-| [**CulturaX**] | HTML, CSS | A modern cultural & travel based UI platform |
-| [**MedChain-PRO**] | TypeScript | Healthcare management & blockchain-inspired web system |
-| [**Walmart Hackathon**]| HTML, CSS, JS | Cybersecurity & UI-driven hackathon project |
+| **Nidhiprama** | HTML, CSS, JS | Financial literacy website that explains concepts simply for students & adults |
+| **Statistical Data Analysis** | Python, Data Science | Visualized Sakura Pen sales insights with Python data tools |
+| **CulturaX** | HTML, CSS | A modern cultural & travel based UI platform |
+| **MedChain-PRO** | TypeScript | Healthcare management & blockchain-inspired web system |
+| **Walmart Hackathon**| HTML, CSS, JS | Cybersecurity & UI-driven hackathon project |
 
 *(Most projects were built through teamwork, hackathons, and collaborative development)*  
 
